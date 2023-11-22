@@ -1,0 +1,11 @@
+GET http://localhost:1992/
+
+###
+GET http://localhost:1992/toto/
+
+###
+GET http://localhost:1992/server/time
+
+###
+GET http://localhost:1992/hello/jeremy
+###
